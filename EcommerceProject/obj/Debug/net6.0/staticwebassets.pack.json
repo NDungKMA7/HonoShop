@@ -1,0 +1,3385 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Adv\\133336273866740692_banner-style-1-img-1.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Adv\\133336273866740692_banner-style-1-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Adv\\133336274063335062_banner-style-2-img-1.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Adv\\133336274063335062_banner-style-2-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Adv\\133336274356622902_banner-style-2-img-2.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Adv\\133336274356622902_banner-style-2-img-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Adv\\133336274886024783_banner-style-2-img-3.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Adv\\133336274886024783_banner-style-2-img-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Adv\\133336275031016201_banner-style-2-img-4.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Adv\\133336275031016201_banner-style-2-img-4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Adv\\133336338154250339_banner-style-3-img-1.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Adv\\133336338154250339_banner-style-3-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Adv\\133336373198385733_side-banner.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Adv\\133336373198385733_side-banner.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\News\\133333528878169072_Galaxy-S23-FE-Geekbench-cover.jpeg",
+      "PackagePath": "staticwebassets\\Upload\\News\\133333528878169072_Galaxy-S23-FE-Geekbench-cover.jpeg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\News\\133333631847035121_iPhone-15-Pro-Blue-2.jpeg",
+      "PackagePath": "staticwebassets\\Upload\\News\\133333631847035121_iPhone-15-Pro-Blue-2.jpeg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\News\\133333632249685194_thoi-nghe.jpg",
+      "PackagePath": "staticwebassets\\Upload\\News\\133333632249685194_thoi-nghe.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\News\\133333632653259264_iPad-Pro-OLED-face.jpeg",
+      "PackagePath": "staticwebassets\\Upload\\News\\133333632653259264_iPad-Pro-OLED-face.jpeg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\News\\133333633010081806_may-loc-khong-khi-LG-3.jpeg",
+      "PackagePath": "staticwebassets\\Upload\\News\\133333633010081806_may-loc-khong-khi-LG-3.jpeg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333462021260311_t_m_18.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333462021260311_t_m_18.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333463155019633_14_1_9_2_9.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333463155019633_14_1_9_2_9.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333464541575860_3_225.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333464541575860_3_225.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333465540390833_3_51_1_7.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333465540390833_3_51_1_7.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333466591382643_iphone-12_7__6_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333466591382643_iphone-12_7__6_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333467657847228_galaxys23ultra_front_green_221122_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333467657847228_galaxys23ultra_front_green_221122_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333468405416156_samsung-galaxy-20-fe_4_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333468405416156_samsung-galaxy-20-fe_4_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333469204354055_lb-galaxy-m14-sm-m146-sm-m146bzbvmea-535834833.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333469204354055_lb-galaxy-m14-sm-m146-sm-m146bzbvmea-535834833.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333470098098439_samsung_galaxy_z_flip_m_i_2022-1_1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333470098098439_samsung_galaxy_z_flip_m_i_2022-1_1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333471152612496_samsung_galaxy_z_fold_4-7_3.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333471152612496_samsung_galaxy_z_fold_4-7_3.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333472076874296_gtt_7766_3__1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333472076874296_gtt_7766_3__1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333473075909470_xiaomi-12t-den_1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333473075909470_xiaomi-12t-den_1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333473987911080_xiaomi-12-pro_arenamobiles.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333473987911080_xiaomi-12-pro_arenamobiles.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333474832969506_pms_1670745783.80967984.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333474832969506_pms_1670745783.80967984.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333476176207513_fvssxa.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333476176207513_fvssxa.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333477252157702_air_m2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333477252157702_air_m2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333477876891680_macbook_air_m22.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333477876891680_macbook_air_m22.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333478569321564_636688207026676028_macbookair-1_1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333478569321564_636688207026676028_macbookair-1_1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333479378749506_macbook_mini_m2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333479378749506_macbook_mini_m2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333481333621000_img-apple-main_1_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333481333621000_img-apple-main_1_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333482557424311_laptop-hp-gaming-victus-15-fa0031dx-6503849-6.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333482557424311_laptop-hp-gaming-victus-15-fa0031dx-6503849-6.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333483374987535__0005_screenshaot_1_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333483374987535__0005_screenshaot_1_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333483957735704_text_ng_n_1__3.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333483957735704_text_ng_n_1__3.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333484458598995_text_ng_n_6__18.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333484458598995_text_ng_n_6__18.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333484987468602_text_ng_n_1__1_59.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333484987468602_text_ng_n_1__1_59.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333485753690874_text_ng_n_3__1_71.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333485753690874_text_ng_n_3__1_71.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333486260675150_laptop-dell-latitude-7320-9ppwv.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333486260675150_laptop-dell-latitude-7320-9ppwv.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333486745972664_dvfh7777_11_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333486745972664_dvfh7777_11_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333487235900460_text_ng_n_7__106.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333487235900460_text_ng_n_7__106.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333487768099509_1_365.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333487768099509_1_365.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333488771135919_band_8.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333488771135919_band_8.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333489404010586_mi_band_7.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333489404010586_mi_band_7.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333489944211242_smart_band.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333489944211242_smart_band.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333491016507451_thumb_1618120865-_1__1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333491016507451_thumb_1618120865-_1__1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333491335224409_smart_band_2_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333491335224409_smart_band_2_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333492140275073_watch_se.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333492140275073_watch_se.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333492716243517_apple_gps_1_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333492716243517_apple_gps_1_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333493212220684_apple_gps_10_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333493212220684_apple_gps_10_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333493872704741_apple_gps_5_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333493872704741_apple_gps_5_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333494596024141_apple_lte.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333494596024141_apple_lte.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333495491902233_huawei_1_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333495491902233_huawei_1_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333496027595664_xiaomi_1_6.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333496027595664_xiaomi_1_6.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333496674968892_huawei_1_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333496674968892_huawei_1_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333497267466279_amazfit.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333497267466279_amazfit.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333497759132534_garmin_15_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333497759132534_garmin_15_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333498860864857_1_210.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333498860864857_1_210.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333499356386314_gopro11_1_1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333499356386314_gopro11_1_1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333499913879328_camera-hero-9.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333499913879328_camera-hero-9.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333500362989728_20_4_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333500362989728_20_4_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333500786489840_may-quay-chong-rung-dji-osmo-pocket-2-combo_1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333500786489840_may-quay-chong-rung-dji-osmo-pocket-2-combo_1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333501759645995_group_17_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333501759645995_group_17_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333502355786652_group_145_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333502355786652_group_145_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333502843367528_frame_1_3__3.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333502843367528_frame_1_3__3.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333503274108067_group_51_2_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333503274108067_group_51_2_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333503840534184_group_91.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333503840534184_group_91.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333504538388302_group_2007_2_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333504538388302_group_2007_2_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333505055246776_xiao-mi-sac-nhanh.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333505055246776_xiao-mi-sac-nhanh.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333505543205317_9_10_116.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333505543205317_9_10_116.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333505991131002_2_638.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333505991131002_2_638.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333506462190359_innostyle_powermax_ip20pd.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333506462190359_innostyle_powermax_ip20pd.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333507548264740_group_169_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333507548264740_group_169_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333507997774865_group_111_5_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333507997774865_group_111_5_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333508566565413_group_117_1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333508566565413_group_117_1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333509154276477_frame_3_3.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333509154276477_frame_3_3.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333509682085893_airtag.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333509682085893_airtag.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333510791728920_9.1_4.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333510791728920_9.1_4.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333511282477196_laiii_5_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333511282477196_laiii_5_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333511735352265_group_236_1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333511735352265_group_236_1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333512419038172_group_311_1_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333512419038172_group_311_1_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333513091381185_8.11.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333513091381185_8.11.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333514657530716_4_44_27.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333514657530716_4_44_27.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333515283907103_d_p.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333515283907103_d_p.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333515835191779_productgallery215.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333515835191779_productgallery215.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333516312053453_381.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333516312053453_381.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333516919361354_222_3.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333516919361354_222_3.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333518415722915_man-hinh-lg-27-inch-27mp400-1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333518415722915_man-hinh-lg-27-inch-27mp400-1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333518915113280_6_25.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333518915113280_6_25.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333519422893926_14_7.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333519422893926_14_7.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333519953071747_group_185.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333519953071747_group_185.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333520489435224_man-hinh-lg-24-inch-24mp88hvs-6.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333520489435224_man-hinh-lg-24-inch-24mp88hvs-6.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333521397906926_group_204_2_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333521397906926_group_204_2_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333521947409105_group_321_4_.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333521947409105_group_321_4_.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333522428673841_group_211_2_1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333522428673841_group_211_2_1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333522865740524_loa-bluetooth-marshall-emberton-ksp.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333522865740524_loa-bluetooth-marshall-emberton-ksp.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133333523397616645_group_213_1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133333523397616645_group_213_1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334338926676006_iphone-12_7__6_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334338926676006_iphone-12_7__6_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334391541393350_airtags444-800x415.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334391541393350_airtags444-800x415.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334391541432004_airtag-56-800x476.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334391541432004_airtag-56-800x476.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334392148894062_apple-airtags-la-gi-nen-tang-hoat-dong-va-cong-dung-cua-5-2-800x600.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334392148894062_apple-airtags-la-gi-nen-tang-hoat-dong-va-cong-dung-cua-5-2-800x600.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334518081146506_apple-airtags-la-gi-nen-tang-hoat-dong-va-cong-dung-cua-5-2-800x600.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334518081146506_apple-airtags-la-gi-nen-tang-hoat-dong-va-cong-dung-cua-5-2-800x600.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334518664778919_banner-sliding-apple-112.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334518664778919_banner-sliding-apple-112.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334521831226691_banner-sliding-apple-112.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334521831226691_banner-sliding-apple-112.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334523998517870_apple-airtag.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334523998517870_apple-airtag.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334526432496407_airtag.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334526432496407_airtag.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334526816641690_apple-airtag.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334526816641690_apple-airtag.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334527093574742_airtag.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334527093574742_airtag.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334527265569022_apple-airtag.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334527265569022_apple-airtag.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334527265573044_apple-airtag-7.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334527265573044_apple-airtag-7.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334527265575603_apple-airtag-6.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334527265575603_apple-airtag-6.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334527265578207_airtag.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334527265578207_airtag.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133334528193682191_macbook_mini_m2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133334528193682191_macbook_mini_m2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336021130355690_mac-mini-4_1_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336021130355690_mac-mini-4_1_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336023150301861_mac-mini-4_1_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336023150301861_mac-mini-4_1_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336023374064761_mac-mini-4_1_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336023374064761_mac-mini-4_1_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336023798368017_macbook_mini_m2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336023798368017_macbook_mini_m2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336027365661944_mac-mini-4_1_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336027365661944_mac-mini-4_1_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336027365695662_mac-mini-2_1_4.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336027365695662_mac-mini-2_1_4.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336027365706400_mac-mini-3_1_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336027365706400_mac-mini-3_1_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336027365710323_macbook_mini_m2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336027365710323_macbook_mini_m2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336960688685102_apple-airtag.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336960688685102_apple-airtag.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336960688701145_apple-airtag-7.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336960688701145_apple-airtag-7.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336960688704936_apple-airtag-6.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336960688704936_apple-airtag-6.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336960688707237_airtag.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336960688707237_airtag.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336961182497383_mac-mini-4_1_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336961182497383_mac-mini-4_1_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336961182503340_mac-mini-2_1_4.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336961182503340_mac-mini-2_1_4.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336961182507063_mac-mini-3_1_2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336961182507063_mac-mini-3_1_2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Products\\133336961182518369_macbook_mini_m2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Products\\133336961182518369_macbook_mini_m2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Slides\\133327809671584760_Screenshot 2023-05-18 133922.png",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133327809671584760_Screenshot 2023-05-18 133922.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Slides\\133327817760195664_Screenshot 2023-06-19 222506.png",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133327817760195664_Screenshot 2023-06-19 222506.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Slides\\133333524788066509_new-banner-sieusale-th7.webp",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133333524788066509_new-banner-sieusale-th7.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Slides\\133333525181720477_690x300_lo-vi-song.webp",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133333525181720477_690x300_lo-vi-song.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Slides\\133333525629091030_690x300_Laptop-Asus-Gaming-1.webp",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133333525629091030_690x300_Laptop-Asus-Gaming-1.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Slides\\133333526071219116_690x300_noi.webp",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133333526071219116_690x300_noi.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Slides\\133333526331847746_Sliding-690x300-rog-ally-dot-2.webp",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133333526331847746_Sliding-690x300-rog-ally-dot-2.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\Upload\\Slides\\133333526593346541_shaarp-banner-cate.webp",
+      "PackagePath": "staticwebassets\\Upload\\Slides\\133333526593346541_shaarp-banner-cate.webp"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\config.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\README.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\bender-runner.config.json",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\bender-runner.config.json"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\config.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\div\\dialogs\\div.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\div\\dialogs\\div.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\LICENSE.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\README.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\README.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\plugindefinition.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\plugindefinition.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\_helpers\\tools.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\_helpers\\tools.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\authentication.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\authentication.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\exportpdf.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\exportpdf.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\notification.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\notification.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\resourcespaths.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\resourcespaths.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\statistics.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\statistics.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\exportpdf\\tests\\stylesheets.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\exportpdf\\tests\\stylesheets.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\find\\dialogs\\find.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\find\\dialogs\\find.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\forms\\dialogs\\button.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\forms\\dialogs\\button.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\forms\\dialogs\\form.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\forms\\dialogs\\form.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\forms\\dialogs\\radio.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\forms\\dialogs\\radio.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\forms\\dialogs\\select.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\forms\\dialogs\\select.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\forms\\dialogs\\textarea.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\forms\\dialogs\\textarea.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\forms\\dialogs\\textfield.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\forms\\dialogs\\textfield.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\iframe\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\iframe\\images\\placeholder.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\preview\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\preview\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\preview\\preview.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\preview\\preview.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\preview\\styles\\screen.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\preview\\styles\\screen.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_address.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_address.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_div.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_div.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h1.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h1.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h2.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h2.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h3.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h3.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h4.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h4.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h5.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h5.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h6.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_h6.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_p.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_p.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\showblocks\\images\\block_pre.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\showblocks\\images\\block_pre.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\angel_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\angel_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\angry_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\angry_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\broken_heart.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\broken_heart.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\confused_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\confused_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\cry_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\cry_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\devil_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\devil_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\envelope.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\envelope.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\envelope.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\heart.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\heart.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\heart.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\heart.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\kiss.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\kiss.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\kiss.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\kiss.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\lightbulb.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\lightbulb.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\omg_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\omg_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\regular_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\regular_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\sad_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\sad_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\shades_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\shades_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\smiley\\images\\wink_smile.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\smiley\\images\\wink_smile.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\templates\\dialogs\\templates.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\templates\\dialogs\\templates.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\templates\\dialogs\\templates.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\templates\\dialogs\\templates.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\templates\\templatedefinition.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\templates\\templatedefinition.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\templates\\templates\\default.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\templates\\templates\\default.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\admin\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\js\\ListArticle.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ListArticle.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\js\\advsAdmin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\advsAdmin.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\js\\categoriesAdmin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\categoriesAdmin.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\js\\detailOrder.js",
+      "PackagePath": "staticwebassets\\admin\\js\\detailOrder.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\js\\newsAdmin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\newsAdmin.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\js\\oderAdmin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\oderAdmin.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\js\\productAdmin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\productAdmin.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\js\\slidesAdmin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\slidesAdmin.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\js\\tagsAdmin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tagsAdmin.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\admin\\js\\userAdmin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\userAdmin.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\ClientJs\\HomePage.js",
+      "PackagePath": "staticwebassets\\assets\\ClientJs\\HomePage.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\css\\plugins\\plugins.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\plugins.min.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\css\\vendor\\vendor.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\vendor.min.css"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\ionicon-fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicon-fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\ionicon-fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicon-fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\ionicon-fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicon-fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\ionicon-fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicon-fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.eot"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.svg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.ttf"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.woff"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.woff2"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\about\\ae8ac2fa217d23aadcc913989fcc34a2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\ae8ac2fa217d23aadcc913989fcc34a2.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\about\\img-about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\img-about.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-1-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-1-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-10-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-10-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-11-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-11-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-11-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-11-img-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-12-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-12-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-13-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-13-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-2-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-2-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-2-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-2-img-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-2-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-2-img-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-2-img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-2-img-4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-3-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-3-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-4-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-4-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-4-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-4-img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-4-img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-5.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-4-img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-6.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-4-img-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-7.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-4-img-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-8.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-5-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-5-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-5-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-5-img-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-5-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-5-img-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-6-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-6-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-7-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-7-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-7-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-7-img-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-7-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-7-img-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-8-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-8-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-8-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-8-img-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\banner-style-9-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-9-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\menu-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\menu-banner.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\banner\\side-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\side-banner.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-5.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-6.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\company-logo\\company-logo-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-1.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\company-logo\\company-logo-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-2.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\company-logo\\company-logo-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-3.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\company-logo\\company-logo-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-4.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\company-logo\\company-logo-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-5.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\company-logo\\company-logo-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-6.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\company-logo\\company-logo-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-7.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\company-logo\\company-logo-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-8.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\company-logo\\payment.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\payment.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\emprt-cart\\empty-cart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\emprt-cart\\empty-cart.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\hero-slider\\home-1\\hero-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-1\\hero-slider-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\hero-slider\\home-1\\hero-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-1\\hero-slider-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\hero-slider\\home-2\\hero-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-2\\hero-slider-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\hero-slider\\home-2\\hero-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-2\\hero-slider-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\hero-slider\\home-3\\hero-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-3\\hero-slider-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\hero-slider\\home-3\\hero-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-3\\hero-slider-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\hero-slider\\home-4\\hero-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-4\\hero-slider-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\hero-slider\\home-4\\hero-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-4\\hero-slider-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\bkg_grid.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\bkg_grid.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\bkg_list.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\bkg_list.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\icon_about1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon_about1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\icon_about2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon_about2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\icon_about3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon_about3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\icon_about4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon_about4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\service-promo-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-1.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\service-promo-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-2.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\service-promo-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-3.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\service-promo-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-4.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\service-promo-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-5.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\service-promo-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-6.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\service-promo-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-7.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\service-promo-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-8.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\icons\\top-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\top-arrow.svg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\instagram\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\instagram\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\instagram\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\instagram\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\instagram\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-5.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\instagram\\instagram-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-6.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\logo\\logo_black.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo_black.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\logo\\logo_white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo_white.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-10.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-11.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-12.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-5.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-6.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-7.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-8.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-1\\default-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-9.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-10.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-11.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-12.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-13.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-14.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-15.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-16.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-17.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-18.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-5.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-6.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-7.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-8.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-2\\default-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-9.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-10.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-11.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-5.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-6.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-7.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-8.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-3\\default-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-9.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-1.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-10.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-11.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-2.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-3.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-4.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-5.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-6.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-7.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-8.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\product\\default\\home-4\\default-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-9.jpg"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\team\\leader1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\leader1.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\team\\leader2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\leader2.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\team\\leader3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\leader3.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\team\\leader4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\leader4.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\user\\image-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\image-1.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\user\\image-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\image-2.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\images\\user\\image-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\image-3.png"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\js\\plugins\\plugins.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\plugins.min.js"
+    },
+    {
+      "Id": "E:\\HonoShop\\HonoShop\\EcommerceProject\\wwwroot\\assets\\js\\vendor\\vendor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\vendor.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EcommerceProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EcommerceProject.props",
+      "PackagePath": "build\\EcommerceProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceProject.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EcommerceProject.props",
+      "PackagePath": "buildTransitive\\EcommerceProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

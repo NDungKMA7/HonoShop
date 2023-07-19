@@ -1,0 +1,65 @@
+﻿@{
+Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+@{
+string disabledAttribute = Model != null ? "disabled" : "";
+}
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <div class="col-xxl">
+            <div class="card mb-4">
+                <div class="card-header d-flex align-items-center justify-content-between">
+                    <h5 class="mb-0">Add & Edit Form </h5>
+                </div>
+                <div class="card-body">
+                    <form method="post" enctype="multipart/form-data" action="@ViewBag.action">
+                        <div class=" mb-3">
+                            <label for="defaultFormControlInput" class="form-label">Name</label>
+                            <input type="text" class="form-control" id="defaultFormControlInput" placeholder="John Doe"
+                                aria-describedby="defaultFormControlHelp" name="name" required
+                                value="@if(Model != null){<text>@Model.Name</text>}" />
+                        </div>
+                        <div class=" mb-3">
+                            <label for="userName" class="form-label">UserName</label>
+                            <input type="text" class="form-control" id="userName"
+                                aria-describedby="defaultFormControlHelp" name="userName" required
+                                value="@if(Model != null){<text>@Model.UserName</text>}" />
+                        </div>
+                        <div class="mb-3">
+                            <label for="exampleFormControlInput1" class="form-label">Email address</label>
+                            <input type="email" class="form-control" id="exampleFormControlInput1"
+                                placeholder="name@example.com" value="@if(Model != null){
+                            <text>@Model.Email</text>
+    }" name="email" @if (Model !=null) { <text>disable</text>
+                            } @disabledAttribute
+                            />
+                        </div>
+                        <div class="mb-3 ">
+                            <label for="html5-password-input" class="col-md-2 col-form-label">Password</label>
+                            <input class="form-control" type="password" name="password" id="html5-password-input"
+                                    @if(Model !=null){ <text>placeholder="Không đổi password thì không nhập thông tin
+                                vào ô textbox này"</text> }else{ <text>required</text> }/>
+                        </div>
+                        <div class="  mb-3">
+                            <label for="exampleFormControlSelect1" class="form-label">Role select</label>
+                            <select class="form-select" id="exampleFormControlSelect1"
+                                aria-label="Default select example" name="selectedRoles">
+                                @foreach (var role in ViewBag.listRoles)
+                                {
+                                <option value="@role.Name">@role.Name</option>
+                                }
+                            </select>
+                        </div>
+                       
+                        <div class=" justify-content-end">
+                            <div class="col-sm-10">
+                                <button type="submit" class="btn btn-primary">Send</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
