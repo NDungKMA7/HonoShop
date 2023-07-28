@@ -57,62 +57,7 @@ namespace EcommerceProject.Areas.Admin.Controllers
             }
             return RedirectToAction("Login");
         }
-        [Authorize(Policy = "Admin")]
-        public IActionResult Registration()
-        {
-            return View("Registration");
-        }
-        [HttpPost]
-        [Authorize(Policy = "Admin")]
-        public async Task<IActionResult> RegistrationPost(IFormCollection fc)
-        {
-            string errorMessage = "";
-            if (!ModelState.IsValid)
-            {
-                return View("Registration");
-            }
-            var regisModel = new RegistraionModel();
-            regisModel.Username = fc["username"].ToString().Trim();
-            regisModel.Email = fc["email"].ToString().Trim();
-            regisModel.Name = fc["name"].ToString().Trim();
-            regisModel.Address = fc["address"].ToString().Trim();
-            regisModel.NumberPhone = fc["numberphone"].ToString().Trim();
-            var existingUser = await userManager.FindByEmailAsync(regisModel.Email);
-            if (existingUser != null)
-            {
-                ViewBag.ErrorMessages = "Người dùng đã tồn tại";
-                return View("Registration");
-            }
-
-            var userRegis = new ApplicationUser();
-            userRegis.UserName = regisModel.Username;
-            userRegis.Email = regisModel.Email;
-            userRegis.Name = regisModel.Name;
-            userRegis.Address = regisModel.Address;
-            userRegis.PhoneNumber = regisModel.NumberPhone;
-            var result = await userManager.CreateAsync(userRegis, fc["password"].ToString().Trim());
-            if (result.Succeeded)
-            {
-                await _signInManager.SignInAsync(userRegis, isPersistent: false);
-
-                await userManager.AddToRoleAsync(userRegis, "Admin");
-
-                return Redirect("/Admin/Home/Index");
-            }
-            else
-            {
-                foreach (var error in result.Errors)
-                {
-
-                    errorMessage = error.Description;
-
-                }
-                ViewBag.ErrorMessages = errorMessage;
-            }
-            return View("Registration");
-
-        }
-
+        
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();
