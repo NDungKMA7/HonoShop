@@ -118,13 +118,18 @@ namespace EcommerceProject.Areas.Admin.Controllers
                 string password = fc["password"].ToString().Trim();
                 string roleName = fc["selectedRoles"].ToString().Trim();
                 string email = fc["email"].ToString().Trim();
+                 var existingUser = await _userManager.FindByEmailAsync(email);
+                if (existingUser != null)
+                {
+                    ViewBag.ErrorMessages = "Người dùng đã tồn tại";
+                    return View("CreateUpdate");
+                }
                 var user = new ApplicationUser();
                 user.UserName = username;
                 user.Email = email;
                 user.Name = name;
                 user.Address = "";
                 user.PhoneNumber = "";
-                
                 var result = await _userManager.CreateAsync(user, password);
                 if (result.Succeeded)
                 {
